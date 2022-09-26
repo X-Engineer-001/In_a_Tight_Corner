@@ -4,3 +4,4 @@
 我對不起資工，我對不起社會。
 
 建議下載方式：右上角 Code → Download ZIP
+PDF檔才是真正的README喔
